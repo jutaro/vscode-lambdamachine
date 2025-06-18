@@ -11,7 +11,6 @@ Currently this offers syntax highlighting for Lambda Machine code (.lm) of Massi
 
 This extension contributes the following settings:
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+* `lambdamachine.enable`: Enable/disable this extension.
 
 **Enjoy!**
